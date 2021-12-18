@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+    background: white;
+    font-size: 24px;
+    padding: 20px;
+    box-shadow: 0 2px 4px 0 rgba(181, 185, 180, 0.2);
+    width: 100%;
+
+}
+
+.navbar a {
+    color: rgba(197, 194, 194, 0.993);
+    text-align: center;
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+}

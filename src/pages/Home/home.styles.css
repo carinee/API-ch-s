@@ -1,0 +1,19 @@
+.texto {
+    height: 900px;
+  }
+  
+  .texto h3 {
+    text-align: center;
+    text-justify: auto;
+    margin: 50px auto;
+    padding-bottom: 150px; 
+    width: 550px;
+    font-weight: 5px;
+    font-size: 24px;
+  }
+
+
+  img{
+    width: 200px;
+    height: 200px;
+  }
